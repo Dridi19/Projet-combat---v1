@@ -3,8 +3,6 @@ import time
 
 import pygame
 from pygame import event
-from sqlalchemy import true
-
 import photo
 
 green = (0, 128, 0)
