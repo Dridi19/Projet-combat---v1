@@ -1,4 +1,4 @@
-![Projet-combat---v1](CAPTURE/merged.png)
+![Projet-combat---v1](merged.png)
 
 ### <p align="center"> Projet-combat---v1 • </p>
 
